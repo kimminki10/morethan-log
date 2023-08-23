@@ -6,6 +6,9 @@ const CONFIG = {
     role: process.env.ROLE,
     bio: "I live slow as much as I can.",
     email: "pangshe10@gmail.com",
+    github: "pangshe10",
+    instagram: "",
+    linkedin: "pangshe10",
   },
   projects: [
     {
