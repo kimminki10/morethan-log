@@ -6,7 +6,7 @@ const CONFIG = {
     role: process.env.ROLE,
     bio: "I live slow as much as I can.",
     email: "pangshe10@gmail.com",
-    github: "pangshe10",
+    github: "kimminki10",
     instagram: "",
     linkedin: "pangshe10",
   },
@@ -18,12 +18,12 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "life is boring",
-    description: "welcome to boring-log!",
+    title: "minglog",
+    description: "welcome to minglog!",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://mingi-log.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
